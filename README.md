@@ -3,11 +3,11 @@ About
 This project is a browser-based mini game where a user plays Rock, Paper, Scissors against the computer. The computer randomly generates its move, and the winner is decided based on classic game rules.
 
 It is designed to strengthen understanding of:
-
 JavaScript logic building
 DOM manipulation
 Event listeners
 UI updates in real-time
+
 🚀 Features
 🎯 Interactive UI with clickable choices
 🤖 Random computer move generation
@@ -15,6 +15,7 @@ UI updates in real-time
 📊 Live score tracking (User vs Computer)
 🎨 Dynamic message updates with color feedback
 🔁 Draw detection and replay functionality
+
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling & Layout
@@ -27,6 +28,6 @@ The result will be displayed:
 ❌ You Lose
 🤝 Draw
 Scores update automatically
-📜 License
 
+📜 License
 This project is open-source and available under the MIT License.
